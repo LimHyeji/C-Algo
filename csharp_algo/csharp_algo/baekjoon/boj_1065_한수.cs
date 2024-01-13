@@ -7,7 +7,7 @@ namespace csharp_algo.baekjoon
         static int N;
         static int result;
 
-        internal static void Main(string[] args)
+        internal static void Program(string[] args)
         {
             N = int.Parse(Console.ReadLine());
 
