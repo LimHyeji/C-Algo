@@ -1,0 +1,7 @@
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\obj\Debug\csharp_algo.csproj.AssemblyReference.cache
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\obj\Debug\csharp_algo.csproj.CoreCompileInputs.cache
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\bin\Debug\csharp_algo.exe.config
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\bin\Debug\csharp_algo.exe
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\bin\Debug\csharp_algo.pdb
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\obj\Debug\csharp_algo.exe
+C:\Users\hyeji\Desktop\hyyej_ji\hyyej_ji_csharp_algo\csharp_algo\csharp_algo\obj\Debug\csharp_algo.pdb
