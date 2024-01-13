@@ -3,7 +3,7 @@ using System.Numerics;
 
 namespace csharp_algo.baekjoon
 {
-    class boj_2407_한수
+    class boj_2407_조합
     {
         static int n, m;
 

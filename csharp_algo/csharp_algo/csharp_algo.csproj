@@ -37,7 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="baekjoon\boj_1065_한수.cs" />
-    <Compile Include="baekjoon\boj_2407_한수.cs" />
+    <Compile Include="baekjoon\boj_2407_조합.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Numerics" />
