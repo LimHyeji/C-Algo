@@ -25,7 +25,7 @@ namespace csharp_algo.baekjoon
         static bool[,] fall;
         static int result;
 
-        static void Main()
+        static void Program()
         {
             string[] input = ReadLine().Split(' ');
             N = Convert.ToInt32(input[0]);
