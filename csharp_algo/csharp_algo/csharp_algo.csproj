@@ -41,7 +41,7 @@
     <Compile Include="baekjoon\boj_18429_근손실.cs" />
     <Compile Include="baekjoon\boj_20165_인내의도미노장인호석.cs" />
     <Compile Include="baekjoon\boj_2407_조합.cs" />
-    <Compile Include="baekjoon\boj_5766_할아버지는유명해.cs" />
+    <Compile Include="baekjoon\boj_7568_덩치.cs" />
     <Compile Include="programmers\하샤드수.cs" />
   </ItemGroup>
   <ItemGroup>

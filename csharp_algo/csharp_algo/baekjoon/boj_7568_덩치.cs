@@ -3,7 +3,7 @@ using static System.Console;
 
 namespace csharp_algo.baekjoon
 {
-    class boj_5766_할아버지는유명해
+    class boj_7568_덩치
     {
         static int N;
         static int[] height, weight;
