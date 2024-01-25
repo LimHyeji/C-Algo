@@ -1,21 +1,6 @@
 using System;
 using static System.Console;
-/*
-11
-1 4
-3 5
-0 6
-5 7
-3 8
-5 9
-6 10
-8 11
-8 12
-2 13
-12 14
- 
- (1,4), (5,7), (8,11), (12,14) 
- */
+
 namespace csharp_algo.baekjoon
 {
     internal class boj_1931_회의실배정
@@ -36,7 +21,7 @@ namespace csharp_algo.baekjoon
         static Room[] rooms;
         static int result;
 
-        static public void Main(string[] args)
+        static public void Program(string[] args)
         {
             N = int.Parse(ReadLine());
             rooms = new Room[N];
