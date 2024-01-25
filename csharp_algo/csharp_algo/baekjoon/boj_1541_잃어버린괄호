@@ -1,0 +1,32 @@
+using System;
+using static System.Console;
+
+namespace TestProject
+{
+    
+    internal class boj_1541_잃어버린괄호
+    {
+        public static void Program()
+        {
+            string[] nums= ReadLine().Split('-');
+
+            int result = int.MaxValue;
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int sum = 0;
+                string[] temp = nums[i].Split("+");
+
+                for (int j = 0; j < temp.Length; j++)
+                {
+                    sum += int.Parse(temp[j]);
+                }
+
+                if (result == int.MaxValue) result = sum;
+                else result -= sum;
+            }
+
+            Console.WriteLine(result);
+        }
+    }
+}
