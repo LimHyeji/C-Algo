@@ -37,13 +37,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="baekjoon\boj_1065_한수.cs" />
+    <None Include="baekjoon\boj_14425_문자열집합.cs" />
     <Compile Include="baekjoon\boj_14467_소가길을건너간이유1.cs" />
     <Compile Include="baekjoon\boj_18429_근손실.cs" />
-    <Compile Include="baekjoon\boj_19532_수학은비대면강의입니다.cs" />
+    <None Include="baekjoon\boj_19532_수학은비대면강의입니다.cs" />
     <Compile Include="baekjoon\boj_20165_인내의도미노장인호석.cs" />
     <Compile Include="baekjoon\boj_2407_조합.cs" />
     <Compile Include="baekjoon\boj_7568_덩치.cs" />
-    <Compile Include="programmers\하샤드수.cs" />
+    <None Include="programmers\하샤드수.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
